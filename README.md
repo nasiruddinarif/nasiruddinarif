@@ -9,6 +9,7 @@ I'm an aspiring Data Analyst based in Malaysia, focused on solving real-world bu
 - Strong understanding of data storytelling and presenting actionable insights to non-technical audiences
 
 ## 🛠️ Languages and Tools:
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" title="Microsoft Excel" />
   <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="SQL" title="SQL" />

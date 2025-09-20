@@ -1,5 +1,5 @@
 ## Welcome to My GitHub Channel! 👋
-I'm an aspiring Data Analyst based in Malaysia, focused on solving real-world business problems with data. I enjoy turning raw datasets into valuable insights that drive decisions. My goal is to help businesses understand their customers, performance, and growth opportunities through data-driven storytelling.
+I'm an aspiring Data Engineer based in Malaysia, focused on solving real-world business problems with data. I enjoy turning raw datasets into valuable insights that drive decisions. My goal is to help businesses understand their customers, performance, and growth opportunities through data-driven storytelling.
 
 ## 📊 Analytical Skills and Experience:
 - Proficient in writing complex SQL queries (joins, CTEs, window functions) using SQL Server, MySQL, and BigQuery
